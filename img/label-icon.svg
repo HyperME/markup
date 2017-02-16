@@ -1,0 +1,19 @@
+<svg id="label" xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #69777e;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="part1" class="cls-1" d="M1293,190l11-11h2l9.98,10.054L1316,191l-10,11h-12l-1-1V190Z" transform="translate(-1293 -179)"/>
+  <path id="part2" class="cls-2" d="M1297,195l1.03-1H1300l1,1v2l-1,1h-2l-1-1v-2Z" transform="translate(-1293 -179)"/>
+</svg>

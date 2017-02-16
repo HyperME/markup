@@ -1,0 +1,17 @@
+<svg id="Группа_1" data-name="Группа 1" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2c96d4;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="circle" data-name="circle" class="cls-1" cx="11" cy="11" r="11"/>
+  <path id="arrow" data-name="arrow" class="cls-2" d="M1257,192l3,1-1,2-3-1Z" transform="translate(-1244 -179)"/>
+  <path id="arrow_2" data-name="arrow 2" class="cls-2" d="M1253,190l1-1,0.03-6H1256v6l1,1v1l-1,2h-2l-1-2v-1Z" transform="translate(-1244 -179)"/>
+</svg>

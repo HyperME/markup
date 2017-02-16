@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25.18" height="19.062" viewBox="0 0 25.18 19.062">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #df6488;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="heart-icon" data-name="heart-icon" class="cls-1" d="M1175,203c5.91-6.868,11,0,11,0l1.02-.032s4.22-6.47,11,.073c1.73,2.653,1,6.058-.01,7.934S1187,218,1187,218v1h-0.97l-0.03-1s-9.95-4.766-11-7C1173.29,207.336,1173.78,204.417,1175,203Z" transform="translate(-1173.88 -199.938)"/>
+</svg>
